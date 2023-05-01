@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.login_div{
+    float:none;
+}
+.header{
+    margin-bottom: 20px;
+    color: yellow;
+}
+h3{
+    font-weight: bold;
+}
+label{
+    margin-top: 50px;
+}
